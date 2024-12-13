@@ -11,5 +11,8 @@
     "@typescript-eslint/parser": "^8.18.0",
     "eslint": "^9.16.0",
     "tsx": "^4.19.2"
+  },
+  "dependencies": {
+    "redis": "^4.7.0"
   }
 }
